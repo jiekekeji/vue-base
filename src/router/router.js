@@ -18,8 +18,8 @@ Vue.use(VueRouter);
 const routes = [
   {
     path: '/',
-    redirect: '/static/MP_verify_Ltqq6JBASesGCzdU.txt',
-    // component: MatchTest,
+    redirect: '/matchtest',
+    component: MatchTest,
   },
   {
     name: 'MatchTest',

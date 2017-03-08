@@ -1,8 +1,4 @@
 /**
- * Created by Administrator on 2017/1/20.
- */
-
-/**
  * 路由配置
  */
 import Vue from 'vue'
